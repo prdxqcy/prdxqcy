@@ -4,9 +4,9 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=64&duration=0&pause=0&color=F8FAFC&center=true&vCenter=true&repeat=false&width=480&height=90&lines=prdxqcy" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=prdxqcy&fontSize=80&fontColor=f8fafc&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=0&pause=0&color=6B7280&center=true&vCenter=true&repeat=false&width=500&height=22&lines=Full-Stack+Developer+%E2%80%A2+DigitalizedCy+%E2%80%A2+Cyprus+%F0%9F%87%A8%F0%9F%87%BE" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&pause=99999&color=6B7280&center=true&vCenter=true&width=500&height=22&lines=Full-Stack+Developer+%E2%80%A2+DigitalizedCy+%E2%80%A2+Cyprus+%F0%9F%87%A8%F0%9F%87%BE" />
 
 <br/>
 
