@@ -1,48 +1,20 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e1a,40:0a0e1a,100:0a0e1a&height=3&section=header" />
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=52&duration=0&pause=0&color=FFFFFF&center=true&vCenter=true&repeat=false&width=500&height=80&lines=prdxqcy" />
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=52&duration=0&pause=0&color=FFFFFF&center=true&vCenter=true&repeat=false&width=500&height=80&lines=prdxqcy" />
-</picture>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=0&pause=0&color=4D9FFF&center=true&vCenter=true&repeat=false&width=420&height=30&lines=Full-Stack+Developer+%E2%80%94+Cyprus+%F0%9F%87%A8%F0%9F%87%BE" />
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1400&color=8B9DC3&center=true&vCenter=true&width=560&lines=building+scalable+systems+from+scratch.;clean+code+is+not+optional.;be+water%2C+my+friend." />
-
-</div>
-
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:060612,25:0e0b2e,55:1a0845,85:0e0b2e,100:060612&height=260&section=header&text=prdxqcy&fontSize=88&fontColor=f1f5f9&fontAlignY=50&fontAlign=50&desc=full-stack%20developer%20%2F%2F%20cyprus&descSize=14&descColor=6d28d9&descAlignY=68&animation=fadeIn&stroke=7c3aed&strokeWidth=1" />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Cyprus-0a0e1a?style=for-the-badge&labelColor=111827&color=111827&logoColor=4d9fff" />
-  &nbsp;
-  <a href="https://digitalizedcy.com" target="_blank">
-    <img src="https://img.shields.io/badge/DigitalizedCy-111827?style=for-the-badge&logo=vercel&logoColor=4d9fff" />
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20To%20Collaborate-111827?style=for-the-badge&logo=handshake&logoColor=4dffa0" />
-</div>
 
 <br/>
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=2800&color=7C3AED&center=true&vCenter=true&width=480&lines=be+water%2C+my+friend.;building+things+that+scale.;clean+code+is+not+optional.)](https://git.io/typing-svg)
 
-## &nbsp;⚡ &nbsp;Stack
-
-<div align="center">
 <br/>
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs&theme=dark&perline=5" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=express,postgres,mongodb,docker,linux&theme=dark&perline=5" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=tailwind,git,vscode,vercel,nginx&theme=dark&perline=5" />
+<img src="https://img.shields.io/badge/Cyprus%20🇨🇾-060612?style=flat-square&labelColor=1a0845&color=1a0845" />
+&nbsp;
+<a href="https://digitalizedcy.com" target="_blank">
+  <img src="https://img.shields.io/badge/DigitalizedCy-1a0845?style=flat-square&logo=vercel&logoColor=a78bfa&labelColor=0e0b2e" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20to%20Collaborate-1a0845?style=flat-square&logo=checkmarx&logoColor=4ade80&labelColor=0e0b2e" />
 
 </div>
 
@@ -50,27 +22,21 @@
 
 ---
 
-## &nbsp;📊 &nbsp;Stats
-
 <div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=prdxqcy&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=6" />
+
+</div>
+
+---
+
 <br/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=prdxqcy&show_icons=true&hide_border=true&bg_color=0a0e1a&title_color=4d9fff&icon_color=4d9fff&text_color=8b9dc3&ring_color=1a4fa0&include_all_commits=true&count_private=true" />
+<div align="center">
+
+<img height="158" src="https://github-readme-stats.vercel.app/api?username=prdxqcy&show_icons=true&hide_border=true&bg_color=060612&title_color=7c3aed&icon_color=a78bfa&text_color=475569&ring_color=6d28d9&include_all_commits=true&count_private=true" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prdxqcy&layout=compact&hide_border=true&bg_color=0a0e1a&title_color=4d9fff&text_color=8b9dc3" />
-
-</div>
-
-<br/>
-
----
-
-## &nbsp;📈 &nbsp;Activity
-
-<div align="center">
-<br/>
-
-<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prdxqcy&theme=github_dark" />
+<img height="158" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prdxqcy&layout=compact&hide_border=true&bg_color=060612&title_color=7c3aed&text_color=475569&langs_count=6" />
 
 </div>
 
@@ -81,21 +47,35 @@
 <div align="center">
 
 <br/>
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express&theme=dark&perline=6" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,tailwind,git,linux&theme=dark&perline=6" />
+
+<br/>
+
+</div>
+
+---
+
+<br/>
+
+<div align="center">
 
 <a href="https://digitalizedcy.com" target="_blank">
-  <img src="https://img.shields.io/badge/digitalizedcy.com-0a0e1a?style=for-the-badge&logo=safari&logoColor=4d9fff&labelColor=111827" />
+  <img src="https://img.shields.io/badge/digitalizedcy.com-060612?style=for-the-badge&logo=safari&logoColor=a78bfa&labelColor=0e0b2e" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/prdxqcy" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-0a0e1a?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=111827" />
+  <img src="https://img.shields.io/badge/GitHub-060612?style=for-the-badge&logo=github&logoColor=f1f5f9&labelColor=0e0b2e" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=prdxqcy&style=for-the-badge&color=0a0e1a&labelColor=111827&label=PROFILE+VIEWS&abbreviated=true" />
+<img src="https://komarev.com/ghpvc/?username=prdxqcy&style=for-the-badge&color=060612&labelColor=0e0b2e&label=PROFILE+VIEWS&abbreviated=true" />
 
 <br/><br/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e1a,100:0a0e1a&height=3&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:060612,25:0e0b2e,55:1a0845,85:0e0b2e,100:060612&height=140&section=footer&animation=fadeIn&reversal=true&stroke=7c3aed&strokeWidth=1" />
