@@ -1,8 +1,5 @@
 <div align="center">
 
-<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=0:9a8728,50:c4a832,100:9a8728&height=2" />
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=prdxqcy&fontSize=80&fontColor=f0e6c0&animation=fadeIn" />
 
@@ -75,4 +72,3 @@
 
 <br/>
 
-<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=0:9a8728,50:c4a832,100:9a8728&height=2" />
