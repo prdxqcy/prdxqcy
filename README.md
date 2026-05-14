@@ -57,7 +57,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=prdxqcy&theme=transparent&hide_border=true&background=080a06&ring=9a8728&fire=c4a832&currStreakLabel=c4a832&sideLabels=4a4828&dates=4a4828&stroke=2a2a10&card_width=500" />
+<img src="https://streak-stats.demolab.com/?user=prdxqcy&theme=transparent&hide_border=true&background=080a06&ring=9a8728&fire=c4a832&currStreakLabel=c4a832&currStreakNum=f0e6c0&sideLabels=9a8f50&sideNums=c4a832&dates=9a8f50&stroke=2a2a10&card_width=500" />
 
 </div>
 
