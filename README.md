@@ -70,13 +70,6 @@
 
 <br/>
 
-<div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Simplicity%20is%20the%20soul%20of%20efficiency.&author=Austin%20Freeman)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
-<br/>
 
 <div align="center">
 
