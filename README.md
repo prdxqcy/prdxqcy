@@ -1,81 +1,100 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:060612,25:0e0b2e,55:1a0845,85:0e0b2e,100:060612&height=260&section=header&text=prdxqcy&fontSize=88&fontColor=f1f5f9&fontAlignY=50&fontAlign=50&desc=full-stack%20developer%20%2F%2F%20cyprus&descSize=14&descColor=6d28d9&descAlignY=68&animation=fadeIn&stroke=7c3aed&strokeWidth=1" />
-
 <div align="center">
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=2800&color=7C3AED&center=true&vCenter=true&width=480&lines=be+water%2C+my+friend.;building+things+that+scale.;clean+code+is+not+optional.)](https://git.io/typing-svg)
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:818cf8,100:6366f1&height=2" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Cyprus%20🇨🇾-060612?style=flat-square&labelColor=1a0845&color=1a0845" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=64&duration=0&pause=0&color=F8FAFC&center=true&vCenter=true&repeat=false&width=480&height=90&lines=prdxqcy" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=0&pause=0&color=6B7280&center=true&vCenter=true&repeat=false&width=500&height=22&lines=Full-Stack+Developer+%E2%80%A2+DigitalizedCy+%E2%80%A2+Cyprus+%F0%9F%87%A8%F0%9F%87%BE" />
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&pause=3000&color=818CF8&center=true&vCenter=true&width=500&lines=be+water%2C+my+friend.;building+scalable+systems+from+scratch.;clean+code+is+not+optional.)](https://git.io/typing-svg)
+
+<br/>
+
+<a href="https://digitalizedcy.com" target="_blank"><img src="https://img.shields.io/badge/digitalizedcy.com-6366f1?style=flat-square&logo=safari&logoColor=white" /></a>
 &nbsp;
-<a href="https://digitalizedcy.com" target="_blank">
-  <img src="https://img.shields.io/badge/DigitalizedCy-1a0845?style=flat-square&logo=vercel&logoColor=a78bfa&labelColor=0e0b2e" />
-</a>
+<img src="https://img.shields.io/badge/TypeScript%20%2F%20React%20%2F%20Node-1e1b4b?style=flat-square&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/Open%20to%20Collaborate-1a0845?style=flat-square&logo=checkmarx&logoColor=4ade80&labelColor=0e0b2e" />
-
-</div>
+<img src="https://img.shields.io/badge/Open%20to%20Collaborate-166534?style=flat-square&logo=checkmarx&logoColor=white" />
 
 <br/>
+<br/>
 
----
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=prdxqcy&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=6" />
+<img width="100%" height="1" src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,50:312e81,100:1e1b4b&height=1" />
 
 </div>
-
----
 
 <br/>
 
 <div align="center">
 
-<img height="158" src="https://github-readme-stats.vercel.app/api?username=prdxqcy&show_icons=true&hide_border=true&bg_color=060612&title_color=7c3aed&icon_color=a78bfa&text_color=475569&ring_color=6d28d9&include_all_commits=true&count_private=true" />
-&nbsp;&nbsp;
-<img height="158" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prdxqcy&layout=compact&hide_border=true&bg_color=060612&title_color=7c3aed&text_color=475569&langs_count=6" />
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=prdxqcy&show_icons=true&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=6366f1&text_color=6b7280&ring_color=6366f1&include_all_commits=true&count_private=true" />
+&nbsp;
+<img height="155" src="https://streak-stats.demolab.com/?user=prdxqcy&theme=transparent&hide_border=true&background=0d1117&ring=6366f1&fire=818cf8&currStreakLabel=818cf8&sideLabels=6b7280&dates=6b7280&stroke=1e1b4b" />
+&nbsp;
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prdxqcy&layout=compact&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=6b7280&langs_count=5" />
 
 </div>
 
 <br/>
-
----
 
 <div align="center">
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express&theme=dark&perline=6" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,tailwind,git,linux&theme=dark&perline=6" />
-
-<br/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=prdxqcy&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=6" />
 </div>
-
----
 
 <br/>
 
 <div align="center">
 
-<a href="https://digitalizedcy.com" target="_blank">
-  <img src="https://img.shields.io/badge/digitalizedcy.com-060612?style=for-the-badge&logo=safari&logoColor=a78bfa&labelColor=0e0b2e" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/prdxqcy" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-060612?style=for-the-badge&logo=github&logoColor=f1f5f9&labelColor=0e0b2e" />
-</a>
+**Frontend**&nbsp;&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-0f172a?style=flat-square&logo=tailwindcss&logoColor=38bdf8)
 
-<br/><br/>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=prdxqcy&style=for-the-badge&color=060612&labelColor=0e0b2e&label=PROFILE+VIEWS&abbreviated=true" />
+**Backend**&nbsp;&nbsp;&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-1a2e1a?style=flat-square&logo=node.js&logoColor=6cc24a)
+![Express](https://img.shields.io/badge/Express-1a1a1a?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=flat-square&logo=postgresql&logoColor=4169e1)
+![MongoDB](https://img.shields.io/badge/MongoDB-0f1f12?style=flat-square&logo=mongodb&logoColor=47a248)
 
-<br/><br/>
+<br/>
+
+**Tools**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Docker](https://img.shields.io/badge/Docker-0c1824?style=flat-square&logo=docker&logoColor=2496ed)
+![Git](https://img.shields.io/badge/Git-1f0e09?style=flat-square&logo=git&logoColor=f05032)
+![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=flat-square&logo=linux&logoColor=fcc624)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=flat-square&logo=visual-studio-code&logoColor=007acc)
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:060612,25:0e0b2e,55:1a0845,85:0e0b2e,100:060612&height=140&section=footer&animation=fadeIn&reversal=true&stroke=7c3aed&strokeWidth=1" />
+<br/>
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Simplicity%20is%20the%20soul%20of%20efficiency.&author=Austin%20Freeman)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://digitalizedcy.com" target="_blank"><img src="https://img.shields.io/badge/Website-6366f1?style=for-the-badge&logo=safari&logoColor=white" /></a>
+&nbsp;
+<img src="https://img.shields.io/badge/Cyprus-1e1b4b?style=for-the-badge&logo=google-maps&logoColor=818cf8" />
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=prdxqcy&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS&abbreviated=true" />
+
+</div>
+
+<br/>
+
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:818cf8,100:6366f1&height=2" />
