@@ -1,29 +1,29 @@
 <div align="center">
 
-<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:818cf8,100:6366f1&height=2" />
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=0:9a8728,50:c4a832,100:9a8728&height=2" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=prdxqcy&fontSize=80&fontColor=f8fafc&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=prdxqcy&fontSize=80&fontColor=f0e6c0&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&pause=99999&color=6B7280&center=true&vCenter=true&width=500&height=22&lines=Full-Stack+Developer+%E2%80%A2+DigitalizedCy+%E2%80%A2+Cyprus+%F0%9F%87%A8%F0%9F%87%BE" />
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&pause=3000&color=818CF8&center=true&vCenter=true&width=500&lines=be+water%2C+my+friend.;building+scalable+systems+from+scratch.;clean+code+is+not+optional.)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&pause=99999&color=4a4828&center=true&vCenter=true&width=500&height=22&lines=Full-Stack+Developer+%E2%80%A2+DigitalizedCy+%E2%80%A2+Cyprus+%F0%9F%87%A8%F0%9F%87%BE" />
 
 <br/>
 
-<a href="https://digitalizedcy.com" target="_blank"><img src="https://img.shields.io/badge/digitalizedcy.com-6366f1?style=flat-square&logo=safari&logoColor=white" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&pause=3000&color=9A8728&center=true&vCenter=true&width=500&lines=be+water%2C+my+friend.;building+scalable+systems+from+scratch.;clean+code+is+not+optional.)](https://git.io/typing-svg)
+
+<br/>
+
+<a href="https://digitalizedcy.com" target="_blank"><img src="https://img.shields.io/badge/digitalizedcy.com-9a8728?style=flat-square&logo=safari&logoColor=f0e6c0" /></a>
 &nbsp;
-<img src="https://img.shields.io/badge/TypeScript%20%2F%20React%20%2F%20Node-1e1b4b?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript%20%2F%20React%20%2F%20Node-0e100b?style=flat-square&logoColor=f0e6c0" />
 &nbsp;
-<img src="https://img.shields.io/badge/Open%20to%20Collaborate-166534?style=flat-square&logo=checkmarx&logoColor=white" />
+<img src="https://img.shields.io/badge/Open%20to%20Collaborate-1a2a0a?style=flat-square&logo=checkmarx&logoColor=c4a832" />
 
 <br/>
 <br/>
 
-<img width="100%" height="1" src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,50:312e81,100:1e1b4b&height=1" />
+<img width="100%" height="1" src="https://capsule-render.vercel.app/api?type=rect&color=0:0e100b,50:2a2a10,100:0e100b&height=1" />
 
 </div>
 
@@ -55,7 +55,7 @@
 **Tools**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/Git-1f0e09?style=flat-square&logo=git&logoColor=f05032)
 ![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=flat-square&logo=linux&logoColor=fcc624)
-![Dokploy](https://img.shields.io/badge/Dokploy-1a1230?style=flat-square&logo=railway&logoColor=818cf8)
+![Dokploy](https://img.shields.io/badge/Dokploy-1a1230?style=flat-square&logo=railway&logoColor=c4a832)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=flat-square&logo=visual-studio-code&logoColor=007acc)
 
 </div>
@@ -64,23 +64,22 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=prdxqcy&theme=transparent&hide_border=true&background=0d1117&ring=6366f1&fire=818cf8&currStreakLabel=818cf8&sideLabels=6b7280&dates=6b7280&stroke=1e1b4b&card_width=500" />
+<img src="https://streak-stats.demolab.com/?user=prdxqcy&theme=transparent&hide_border=true&background=080a06&ring=9a8728&fire=c4a832&currStreakLabel=c4a832&sideLabels=4a4828&dates=4a4828&stroke=2a2a10&card_width=500" />
 
 </div>
 
 <br/>
-
 
 <div align="center">
 
-<a href="https://digitalizedcy.com" target="_blank"><img src="https://img.shields.io/badge/Website-6366f1?style=for-the-badge&logo=safari&logoColor=white" /></a>
+<a href="https://digitalizedcy.com" target="_blank"><img src="https://img.shields.io/badge/Website-9a8728?style=for-the-badge&logo=safari&logoColor=f0e6c0" /></a>
 &nbsp;
-<img src="https://img.shields.io/badge/Cyprus-1e1b4b?style=for-the-badge&logo=google-maps&logoColor=818cf8" />
+<img src="https://img.shields.io/badge/Cyprus-0e100b?style=for-the-badge&logo=google-maps&logoColor=c4a832" />
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=prdxqcy&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS&abbreviated=true" />
+<img src="https://komarev.com/ghpvc/?username=prdxqcy&style=for-the-badge&color=9a8728&label=PROFILE+VIEWS&abbreviated=true" />
 
 </div>
 
 <br/>
 
-<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:818cf8,100:6366f1&height=2" />
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=0:9a8728,50:c4a832,100:9a8728&height=2" />
