@@ -31,11 +31,7 @@
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=prdxqcy&show_icons=true&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=6366f1&text_color=6b7280&ring_color=6366f1&include_all_commits=true&count_private=true" />
-&nbsp;
-<img height="155" src="https://streak-stats.demolab.com/?user=prdxqcy&theme=transparent&hide_border=true&background=0d1117&ring=6366f1&fire=818cf8&currStreakLabel=818cf8&sideLabels=6b7280&dates=6b7280&stroke=1e1b4b" />
-&nbsp;
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prdxqcy&layout=compact&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=6b7280&langs_count=5" />
+<img src="https://streak-stats.demolab.com/?user=prdxqcy&theme=transparent&hide_border=true&background=0d1117&ring=6366f1&fire=818cf8&currStreakLabel=818cf8&sideLabels=6b7280&dates=6b7280&stroke=1e1b4b&card_width=500" />
 
 </div>
 
