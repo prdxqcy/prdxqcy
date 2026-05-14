@@ -6,7 +6,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=prdxqcy&fontSize=80&fontColor=f0e6c0&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&pause=99999&color=4a4828&center=true&vCenter=true&width=500&height=22&lines=Full-Stack+Developer+%E2%80%A2+DigitalizedCy+%E2%80%A2+Cyprus+%F0%9F%87%A8%F0%9F%87%BE" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&pause=99999&color=9a8f50&center=true&vCenter=true&width=500&height=22&lines=Full-Stack+Developer+%E2%80%A2+DigitalizedCy+%E2%80%A2+Cyprus+%F0%9F%87%A8%F0%9F%87%BE" />
 
 <br/>
 
