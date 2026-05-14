@@ -31,7 +31,8 @@
 
 <div align="center">
 
-**Frontend**&nbsp;&nbsp;
+![](https://img.shields.io/badge/FRONTEND-9a8728?style=flat-square&logoColor=white)
+&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
@@ -42,7 +43,8 @@
 
 <br/>
 
-**Backend**&nbsp;&nbsp;&nbsp;
+![](https://img.shields.io/badge/BACKEND-9a8728?style=flat-square&logoColor=white)
+&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-1a1230?style=flat-square&logo=php&logoColor=777bb4)
 ![Node.js](https://img.shields.io/badge/Node.js-1a2e1a?style=flat-square&logo=node.js&logoColor=6cc24a)
 ![Express](https://img.shields.io/badge/Express-1a1a1a?style=flat-square&logo=express&logoColor=white)
@@ -52,7 +54,8 @@
 
 <br/>
 
-**Tools**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![](https://img.shields.io/badge/TOOLS-9a8728?style=flat-square&logoColor=white)
+&nbsp;
 ![Git](https://img.shields.io/badge/Git-1f0e09?style=flat-square&logo=git&logoColor=f05032)
 ![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=flat-square&logo=linux&logoColor=fcc624)
 ![Dokploy](https://img.shields.io/badge/Dokploy-1a1230?style=flat-square&logo=railway&logoColor=c4a832)
